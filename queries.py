@@ -3,9 +3,9 @@
 #%%
 # TheGraph Subgraph for Phase 2 - Current Phase
 # TheGraph Subgraph for Phase 3 - Next Phase
-#subgraph_phase2 = "https://api.thegraph.com/subgraphs/name/graphprotocol/graph-network-testnet-phase2"
-subgraph_phase3 = "https://api.thegraph.com/subgraphs/name/graphprotocol/graph-testnet-staging-phase3"
-subgraph_phase2 = "https://gateway-testnet.thegraph.com/network"
+subgraph_phase2 = "https://api.thegraph.com/subgraphs/name/graphprotocol/graph-network-testnet-phase2"
+# subgraph_phase3 = "https://api.thegraph.com/subgraphs/name/graphprotocol/graph-testnet-staging-phase3"
+# subgraph_phase2 = "https://gateway-testnet.thegraph.com/network"
 # Overview of Subgraphs with Image, Owner, Id, Description, (Repository)...
 subgraphs_query = """
 {
